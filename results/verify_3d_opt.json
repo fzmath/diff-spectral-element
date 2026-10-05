@@ -1,0 +1,6 @@
+{
+  "opt_iters": 25,
+  "opt_state_err_pct": 0.6748,
+  "mesh4_L2_rel": 0.000862074161545131,
+  "mesh4_n_int": 343
+}

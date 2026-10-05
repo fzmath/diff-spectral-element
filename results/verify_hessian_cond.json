@@ -1,0 +1,102 @@
+[
+  {
+    "vary": "p",
+    "p": 2,
+    "E": 2,
+    "n_int": 3,
+    "kappa_K": 7.24,
+    "kappa_H": 74.06
+  },
+  {
+    "vary": "p",
+    "p": 4,
+    "E": 2,
+    "n_int": 7,
+    "kappa_K": 43.79,
+    "kappa_H": 4256.59
+  },
+  {
+    "vary": "p",
+    "p": 8,
+    "E": 2,
+    "n_int": 15,
+    "kappa_K": 289.11,
+    "kappa_H": 11745.6
+  },
+  {
+    "vary": "p",
+    "p": 16,
+    "E": 2,
+    "n_int": 31,
+    "kappa_K": 2142.32,
+    "kappa_H": 12128.77
+  },
+  {
+    "vary": "h",
+    "p": 4,
+    "E": 2,
+    "n_int": 7,
+    "kappa_K": 43.79,
+    "kappa_H": 4256.59
+  },
+  {
+    "vary": "h",
+    "p": 4,
+    "E": 4,
+    "n_int": 15,
+    "kappa_K": 182.4,
+    "kappa_H": 10583.42
+  },
+  {
+    "vary": "h",
+    "p": 4,
+    "E": 8,
+    "n_int": 31,
+    "kappa_K": 737.55,
+    "kappa_H": 11608.97
+  },
+  {
+    "vary": "h",
+    "p": 4,
+    "E": 16,
+    "n_int": 63,
+    "kappa_K": 2958.32,
+    "kappa_H": 11682.61
+  },
+  {
+    "vary": "alpha",
+    "alpha": 0.01,
+    "p": 8,
+    "E": 2,
+    "n_int": 15,
+    "kappa_K": 289.11,
+    "kappa_H": 2.19
+  },
+  {
+    "vary": "alpha",
+    "alpha": 0.0001,
+    "p": 8,
+    "E": 2,
+    "n_int": 15,
+    "kappa_K": 289.11,
+    "kappa_H": 119.77
+  },
+  {
+    "vary": "alpha",
+    "alpha": 1e-06,
+    "p": 8,
+    "E": 2,
+    "n_int": 15,
+    "kappa_K": 289.11,
+    "kappa_H": 11745.6
+  },
+  {
+    "vary": "alpha",
+    "alpha": 1e-08,
+    "p": 8,
+    "E": 2,
+    "n_int": 15,
+    "kappa_K": 289.11,
+    "kappa_H": 555170.85
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "h_FD": 0.0001,
+    "rel_gradient_error": 1.330036653819083e-10
+  },
+  {
+    "h_FD": 1e-05,
+    "rel_gradient_error": 1.5041901557305086e-09
+  },
+  {
+    "h_FD": 1e-06,
+    "rel_gradient_error": 1.22437047792754e-08
+  },
+  {
+    "h_FD": 1e-07,
+    "rel_gradient_error": 1.221008031132891e-07
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "nu": 0.1,
+    "newton": "converged",
+    "newton_iters": 5,
+    "grad_fd_err": 9.757385382597965e-08
+  },
+  {
+    "nu": 0.01,
+    "newton": "converged",
+    "newton_iters": 6,
+    "grad_fd_err": 5.403584481604895e-09
+  },
+  {
+    "nu": 0.001,
+    "newton": "converged",
+    "newton_iters": 6,
+    "grad_fd_err": 8.280912215240679e-09
+  }
+]

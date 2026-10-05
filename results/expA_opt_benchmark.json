@@ -1,0 +1,35 @@
+[
+  {
+    "label": "AD",
+    "iterations": 10,
+    "gradient_calls": 15,
+    "total_time_s": 0.0511,
+    "final_objective": 0.0029365988814252226,
+    "gradient_norm": 1.0908029931151143e-06,
+    "state_error_pct": 0.374762,
+    "control_error_pct": 14.6733,
+    "converged": true
+  },
+  {
+    "label": "Hand-coded adjoint",
+    "iterations": 10,
+    "gradient_calls": 15,
+    "total_time_s": 0.0344,
+    "final_objective": 0.002936598790025154,
+    "gradient_norm": 1.0517894923570056e-06,
+    "state_error_pct": 0.374762,
+    "control_error_pct": 14.6733,
+    "converged": true
+  },
+  {
+    "label": "Finite difference",
+    "iterations": 11,
+    "gradient_calls": 16,
+    "total_time_s": 0.9838,
+    "final_objective": 0.002936726224301943,
+    "gradient_norm": 2.5784836577585196e-06,
+    "state_error_pct": 0.375741,
+    "control_error_pct": 14.7045,
+    "converged": true
+  }
+]

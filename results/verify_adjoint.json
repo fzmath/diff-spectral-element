@@ -1,0 +1,6 @@
+{
+  "grad_rel_err": 3.540202103366871e-15,
+  "ad_ms_per_eval": 1.3246,
+  "hand_ms_per_eval": 0.5257,
+  "ratio": 2.52
+}

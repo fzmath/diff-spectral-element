@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DSEM: Differentiable Spectral Element Method for PDE-constrained optimization"
+abstract: >-
+  DSEM embeds high-order Galerkin spectral element forward solves in the
+  reverse-mode automatic differentiation engine of PyTorch, providing
+  gradients for PDE-constrained inverse problems without deriving and
+  maintaining problem-specific discrete adjoint implementations. It supports
+  dense, sparse, and element-wise matrix-free evaluation modes and includes
+  verification for linear elliptic and nonlinear steady residuals.
+authors:
+  - family-names: Wang
+    given-names: Fuchang
+    orcid: "0000-0000-0000-0000"
+    affiliation: "Emergency Management University, School of Science"
+  - family-names: Cao
+    given-names: Huirong
+    orcid: "0000-0000-0000-0000"
+    affiliation: "Langfang Normal University, School of Science"
+version: "1.0.0"
+date-released: "2026-10-05"
+license: MIT
+url: "https://github.com/fzmath/diff-spectral-element"
+doi: "10.5281/zenodo.xxxxxxxx"
+keywords:
+  - spectral element method
+  - automatic differentiation
+  - PDE-constrained optimization
+  - adjoint consistency
+  - matrix-free

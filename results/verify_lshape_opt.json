@@ -1,0 +1,6 @@
+{
+  "iters": 14,
+  "state_err_pct": 0.065,
+  "n_int": 162,
+  "alpha": 1e-06
+}
