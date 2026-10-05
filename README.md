@@ -64,7 +64,11 @@ environment.
 ## Archiving
 
 The exact commit behind the manuscript is tagged as Release `v1.0.0` and
-deposited to Zenodo (DOI to be registered at release). MIT license.
+archived with a persistent DOI:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23154175.svg)](https://doi.org/10.5281/zenodo.23154175)
+
+MIT license.
 
 ## Citation
 

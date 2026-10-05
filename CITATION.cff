@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 title: "DSEM: Differentiable Spectral Element Method for PDE-constrained optimization"
 abstract: >-
@@ -18,10 +18,11 @@ authors:
     orcid: "0000-0000-0000-0000"
     affiliation: "Langfang Normal University, School of Science"
 version: "1.0.0"
+commit: "d9a6551b24a8f93c7c5ebf649cdb97a8f14fb651"
 date-released: "2026-10-05"
 license: MIT
 url: "https://github.com/fzmath/diff-spectral-element"
-doi: "10.5281/zenodo.xxxxxxxx"
+doi: "10.5281/zenodo.23154175"
 keywords:
   - spectral element method
   - automatic differentiation
